@@ -12,3 +12,7 @@ server.use('/api/hubs', hubsRouter);
 module.exports = server;
 // add an endpoint that returns all the messages for a hub
 // add an endpoint for adding new message to a hub
+
+
+
+//updated code from lecture
